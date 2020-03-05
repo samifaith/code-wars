@@ -10,5 +10,5 @@ function positiveSum(arr) {
       newArr += arr [i]
     }
   }
-  return cass
+  return newArr
 }
