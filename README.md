@@ -1,2 +1,3 @@
-# code-wars
-(5) Level - 8 Code War Problems
+# Code-Wars
+Weekly completed code-wars and solutions
+Levels 6, 7, & 8
